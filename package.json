@@ -1,6 +1,6 @@
 {
   "name": "node-dice",
-  "version": "1.3.2",
+  "version": "1.4.2",
   "description": "Create an installable Node.js module package",
   "main": "./lib/roll.js",
   "scripts": {
